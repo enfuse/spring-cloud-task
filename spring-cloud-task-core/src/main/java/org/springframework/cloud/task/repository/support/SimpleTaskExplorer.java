@@ -89,7 +89,6 @@ public class SimpleTaskExplorer implements TaskExplorer {
 
 	@Override
 	public Page<TaskExecution> findAll(Pageable pageable) {
-		System.out.println("Hey I'm Here--------------------------<<<<>>><><><>");
 		return this.taskExecutionDao.findAll(pageable);
 	}
 
