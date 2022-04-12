@@ -30,6 +30,7 @@ import static org.assertj.core.api.Assertions.assertThat;
 
 /**
  * @author Glenn Renfro
+ * @author Ryan DCruz
  */
 public class FindAllPagingQueryProviderTests {
 

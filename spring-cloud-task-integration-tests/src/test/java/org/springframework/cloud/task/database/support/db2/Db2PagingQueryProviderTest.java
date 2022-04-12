@@ -52,6 +52,7 @@ import static org.springframework.test.context.jdbc.SqlConfig.ErrorMode.CONTINUE
 
 /**
  * @author Tyler Carpenter-Rivers
+ * @author Ryan DCruz
  * @see Db2PagingQueryProvider
  */
 @SpringBootTest(

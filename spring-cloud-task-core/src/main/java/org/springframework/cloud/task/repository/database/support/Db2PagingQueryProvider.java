@@ -24,6 +24,7 @@ import org.springframework.data.domain.Pageable;
  * database specific features.
  *
  * @author Thomas Schuettel
+ * @author Ryan DCruz
  */
 public class Db2PagingQueryProvider extends AbstractSqlPagingQueryProvider {
 
